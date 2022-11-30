@@ -25,7 +25,7 @@ You might be interested in the [Tech Interview Handbook](https://github.com/yang
 
 **[HTML Questions](#html-questions)**
 
-* [What does a doctype do?](#what-does-a-doctype-do)
+* [yes](#what-does-a-doctype-do)
 * [How do you serve a page with content in multiple languages?](#how-do-you-serve-a-page-with-content-in-multiple-languages)
 * [What kind of things must you be wary of when design or developing for multilingual sites?](#what-kind-of-things-must-you-be-wary-of-when-designing-or-developing-for-multilingual-sites)
 * [What are `data-` attributes good for?](#what-are-data--attributes-good-for)
